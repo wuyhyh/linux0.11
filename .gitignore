@@ -1,5 +1,6 @@
 # CLion files
 .idea/
+.DS_Store
 
 # Prerequisites
 *.d
